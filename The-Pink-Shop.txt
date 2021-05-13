@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style>
+    body {
+        background-image:url(https://i.pinimg.com/474x/4b/ca/5d/4bca5d3cf93d1ee1656b065210e1ad73.jpg);
+         }
+         p {
+           text-align: center;
+           color: rgb(204, 74, 107);
+           font-family: sans-serif;
+           } 
+
+   ul {
+	     list-style-type: none;
+	     margin: 0;
+	     padding: 0;
+	     overflow: hidden;
+	     background-color:whitesmoke ;
+      }
+    li {
+          float: left;
+    }
+    li a {
+          display: block;
+        color: white;
+        text-align: center;
+          padding: 16px;
+          text-decoration: none;
+    }
+    li a:hover {
+              background-color: white;
+    }
+  </style>
+  </head>
+    <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#faq">FAQ</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="#about">About</a></li>
+    </ul>
+    <div style="background-image:url(https://www.thymeonmyhandsllc.com/x/cdn/?https://storage.googleapis.com/production-websitebuilder-v1-0-3/603/247603/Tkfy9dkI/100dd3e10b6c4c8d9319f2fcc4a237c2);color:white;padding:20px;">
+              <h1 style="color:rgb(220,20,60);font-family:Comic Sans MS;background-color:(255,235,205);text-align:center;font-size:60px;">The Pink Shop</h1>
+    </div> 
+    <br>
+  <head>
+  <style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: rgb(250,235,215);
+    }
+    li {
+      float: left;
+    }
+    li a {
+      display: block;
+      color: rgb(240,128,128);
+      text-align: center;
+      padding: 16px;
+      text-decoration: none;
+    }
+    li a:hover {
+      background-color:white;
+    }
+ </style>
+ </head>
+    <ul>
+      <li><a href="#new arrival">New</a></li>
+      <li><a href="#shoes">Shoes</a></li>
+      <li><a href="#accesories">Accesories</a></li>
+      <li><a href="#cloths">Cloths</a></li>
+      <li><a href="#stationery">Stationery</a></li>
+      <li><a href="#bags">Bags</a></li>
+      <li><a href="#home decor">Home Decor</a></li>
+      <li><a href="#beauty">Beauty Products</a></li>
+      <li><a href="#cart"><img src="https://www.freeiconspng.com/thumbs/cart-icon/basket-cart-icon-27.png" alt="cart" style="width:15px;height:15px;"></a></li>
+      </ul>
+
+
+    <p style="font-size:160%;font-family:Tahoma;color:rgb(188,143,143);"><i>New Arrival</i></p>
+
+    <p>FUJIFILM INSTAX Mini 11 Instant Film Camera (Blush Pink)</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE29ndIMimAyxv-hJ3hnWhMYhAI-BCHEm-BA&usqp=CAU" alt="camera" usemap="#camera" width="250" height="350">
+
+    <map name="camera">
+      <area shape="rect" coords="34,44,270,350" alt="camera" href="https://www.google.com/aclk?sa=l&ai=DChcSEwjg96LeoqXwAhVFNXIKHb4XCIoYABAUGgJzZg&sig=AOD64_2bKkQ1cnqzmmmgp582-fP5erSboA&adurl&ctype=5&ved=2ahUKEwi8p5beoqXwAhU843MBHWfRB9gQvhd6BAgBEHY.htm">
+    </map>
+    <img src="https://i.pinimg.com/originals/7b/86/fb/7b86fb133d79906ec4f69f529408c3f6.gif" alt="camera gif" width="550" height="350">
+    <br>
+    <br>
+    <p style="font-size:160%;font-family:Tahoma;color:rgb(188,143,143);"><i>Accsesories</i></p>
+    <p style="font-size:160%;font-family:Tahoma;color:rgb(188,143,143);"><i>Shoes</i></p>
+
+  
+</html>
